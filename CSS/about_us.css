@@ -1,6 +1,7 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -93,4 +94,15 @@ body {
 }
 .blog-post{
   margin-top: 100px;
+}
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
 }
