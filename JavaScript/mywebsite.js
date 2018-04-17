@@ -1,0 +1,9 @@
+$('#twitter_button').click(function(){
+  window.location.href='http://twitter.com'
+})
+$('#facebook_button').click(function(){
+  window.location.href='http://facebook.com'
+})
+$('#pinterest_button').click(function(){
+  window.location.href='http://pinterest.com'
+})
